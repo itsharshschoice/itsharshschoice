@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<h3 align="left">Welcome to my GitHub profile, where hardware innovation comes to life. As a dedicated electronics and VLSI enthusiast, I specialize in designing and implementing cutting-edge hardware solutions. Proficient in Verilog, FPGA-based systems, and Hardware optimization, I enjoy solving complex challenges in digital design and processor architecture. From secure hardware to efficient computation, my projects reflect a passion for innovation and performance. Feel free to explore my repositories and connect if you'd like to collaborate or discuss exciting hardware ideas!
+<h3 align="left">I’m an electronics student exploring digital design, FPGA communication, VLSI (RTL design and verification), computer architecture, and embedded systems. My projects are centered around learning how hardware works at a low level — from writing Verilog and simulating designs to building systems that integrate computation, control, and communication. This space documents my hands-on learning and interest in building real hardware systems from the ground up.
 
 <h3 align="left">📂 Highlighted Projects:</h3>
 
