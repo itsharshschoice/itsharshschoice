@@ -48,9 +48,21 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/python-svgrepo-com.svg" alt="python" width="40" height="40"/> 
   </a>
+
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/icons8-java-logo-48.png" alt="java" width="40" height="40"/> 
+  </a>
   
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/linux-svgrepo-com.svg" alt="linux" width="40" height="40"/> 
+  </a>
+
+  <a href="http://riscv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/RISC-V.jpeg" alt="riscv" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/Cadence.png" alt="cadencevirtuoso" width="40" height="40"/> 
   </a>
   
    <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html" target="_blank" rel="noreferrer"> 
@@ -61,52 +73,40 @@
     <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/xilinx-vitis.png" alt="vitis" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/visual-studio-code-svgrepo-com.svg" alt="visualstudiocode" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.altera.com/products/development-tools/quartus" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/quartus.svg" alt="quartus" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/modelsim-1.svg" alt="modelsim" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/icons8-java-logo-48.png" alt="java" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/icons8-google-colab-48.png" alt="googlecolab" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.edaplayground.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/edaplayground.png" alt="edaplayground" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/cisco-packet-tracer.png" alt="ciscopackettracer" width="40" height="40"/> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.arduino.cc/en/software/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/RISC-V.jpeg" alt="riscv" width="40" height="40"/> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/visual-studio-code-svgrepo-com.svg" alt="visualstudiocode" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/icons8-google-colab-48.png" alt="googlecolab" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.keil.com/download/product/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/Keil.svg" alt="keil" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/Cadence.png" alt="cadencevirtuoso" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/cisco-packet-tracer.png" alt="ciscopackettracer" width="40" height="40"/> 
   </a>
   
 </p>
