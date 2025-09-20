@@ -27,7 +27,90 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+<p align="left">
+  
+  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/verilog-svgrepo-com.svg" alt="verilog" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/SystemVerilog" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/systemverilog-svgrepo-com.svg" alt="systemverilog" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/bash-icon-svgrepo-com.svg" alt="bash" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/C.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/python-svgrepo-com.svg" alt="python" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/linux-svgrepo-com.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  
+   <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/vivado.png" alt="vivado" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vitis.html" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/xilinx-vitis.png" alt="vitis" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/visual-studio-code-svgrepo-com.svg" alt="visualstudiocode" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/quartus.svg" alt="quartus" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/modelsim-1.svg" alt="modelsim" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/icons8-java-logo-48.png" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/icons8-google-colab-48.png" alt="googlecolab" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/edaplayground.png" alt="edaplayground" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/cisco-packet-tracer.png" alt="ciscopackettracer" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/RISC-V.jpeg" alt="riscv" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/Keil.svg" alt="keil" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/main/icons/Cadence.png" alt="cadencevirtuoso" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  </a>
+  
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsharshschoice&show_icons=true&locale=en&layout=compact" alt="itsharshschoice" /></p>
 
