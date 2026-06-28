@@ -1,23 +1,25 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF3xNLoqm9dvw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1675657921748?e=2147483647&v=beta&t=-t4onNNKhZeTUdLQKG-pnoaR2pi-wc7b4JcwDz31fVk)
 
 <h1 align="center">Hi, I'm Harshvardhan Singh</h1>
-<h3 align="center">Passionate Electronics and VLSI enthusiast from India</h3>
+<h3 align="center">RTL Design Engineer | Electronics & VLSI Enthusiast from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<h3 align="left">I’m an electronics student exploring digital design, FPGA communication, VLSI (RTL design and verification), computer architecture, and embedded systems. My projects are centered around learning how hardware works at a low level — from writing Verilog and simulating designs to building systems that integrate computation, control, and communication. This space documents my hands-on learning and interest in building real hardware systems from the ground up.
+<p align="left">
+I'm a B.Tech graduate in Electronics and Communication Engineering, currently working as an RTL Design Intern. I enjoy building digital hardware systems and learning how things work from the ground up—from writing RTL and implementing designs on FPGAs to understanding the complete digital design flow.
 
-<h3 align="left">📂 Highlighted Projects:</h3>
+My interests include RTL design, FPGA development, computer architecture, digital design, and VLSI. Through my projects, I enjoy exploring how hardware is designed, optimized, and brought from specification to implementation.
+</p>
 
-- 🧮 **Pipelined IEEE 754 FPU Design**: Accelerating floating-point computations for hardware accelerators.  
-- 🔒 **SHA-256 Hardware Accelerator**: Secure hashing implemented on FPGA, optimized for performance.
+<h3 align="left">🌱 Currently exploring</h3>
 
-<h3 align="left">🌱 I’m currently learning:</h3>
+- RTL design and FPGA development
+- Synthesis and timing-driven digital design
+- Lint, CDC, and static design analysis
+- Low-power design techniques
+- Digital design optimization and implementation flows
+
   
- - RISC-V processor design and implementation
- - Verification of digital circuits using SystemVerilog and assertions
- - Advanced techniques in hardware design and optimization
-
 📫 How to reach me **harshs5122@gmail.com**
 
 <h3 align="left">Get in touch</h3>
