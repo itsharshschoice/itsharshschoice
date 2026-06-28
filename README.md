@@ -1,7 +1,7 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF3xNLoqm9dvw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1675657921748?e=2147483647&v=beta&t=-t4onNNKhZeTUdLQKG-pnoaR2pi-wc7b4JcwDz31fVk)
+![MasterHead](icons/banner.jpeg)
 
 <h1 align="center">Hi, I'm Harshvardhan Singh</h1>
-<h3 align="center">RTL Design Engineer | Electronics & VLSI Enthusiast from India</h3>
+<h3 align="center">RTL Design Intern | Electronics & VLSI Enthusiast from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -11,7 +11,7 @@ I'm a B.Tech graduate in Electronics and Communication Engineering, currently wo
 My interests include RTL design, FPGA development, computer architecture, digital design, and VLSI. Through my projects, I enjoy exploring how hardware is designed, optimized, and brought from specification to implementation.
 </p>
 
-<h3 align="left">🌱 Currently exploring</h3>
+<h3 align="left"> Currently exploring</h3>
 
 - RTL design and FPGA development
 - Synthesis and timing-driven digital design
@@ -19,12 +19,6 @@ My interests include RTL design, FPGA development, computer architecture, digita
 - Low-power design techniques
 - Digital design optimization and implementation flows
 
-  
-📫 How to reach me **harshs5122@gmail.com**
-
-<h3 align="left">Get in touch</h3>
-<p align="left">
-<a href="https://linkedin.com/in/itsharshschoice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsharshschoice" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -112,6 +106,37 @@ My interests include RTL design, FPGA development, computer architecture, digita
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsharshschoice&show_icons=true&locale=en&layout=compact" alt="itsharshschoice" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsharshschoice&label=Profile%20views&color=0e75b6&style=flat" alt="itsharshschoice" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsharshschoice&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+
+
+<h3 align="left">Email </h3>
+<p align="left">
+  <a href="mailto:harshvardhan.singh.5122@gmail.com">
+    <img align="center"
+         src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/65610c6d78ff60e8df59ca00c3987b2d99240fab/icons/email-svgrepo-com.svg"
+         alt="Gmail"
+         height="30"
+         width="40" />
+  </a>
+</p>
+
+<h3 align="left">Linkedin </h3> 
+<p align="left">
+  <a href="https://linkedin.com/in/itsharshschoice" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/itsharshschoice/itsharshschoice/e76f0ab60980afa79ce3b018a111a410561929e0/icons/linkedin-svgrepo-com.svg"
+         alt="Linkedin"
+         height="30"
+         width="40" />
+  </a>
+</p>
+
+
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=itsharshschoice&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
